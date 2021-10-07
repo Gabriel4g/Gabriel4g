@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Gabriel!
-- 🌱 I’m currently learning Python, Hacking!
+- 🌱 I’m currently learning Python!
 
 <!---
 Gabriel4g/Gabriel4g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
