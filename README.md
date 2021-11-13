@@ -9,7 +9,7 @@
 <br>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! Meu nome é Gabriel Barros, tenho 14 anos! <br> <br>
 ⭐ More about me: <br> <br>
-💻 Estudante Front-end
+💻 Estudante Front-end <br> <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabrielbarrozs/)](https://www.instagram.com/gabrielbarrozs/)
 
