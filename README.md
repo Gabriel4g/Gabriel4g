@@ -7,7 +7,7 @@
   </a>
 </p>
 <br>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! Meu nome é Gabriel Barros, tenho 14 anos! <br> <br>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Meu nome é Gabriel Barros, tenho 14 anos<br> <br>
 ⭐ More about me: <br>
 💻 Front-end <br> <br>
 
