@@ -8,6 +8,8 @@
 </p>
 <br>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Gabriel Barros<br> <br>
+<h1> My Development Stack</h1>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 ⭐ More about me: <br>
 💻 I'm Front-End Developer <br> <br>
 
