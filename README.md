@@ -11,6 +11,7 @@
 <h1> My Development Stack</h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35px" height="35px" align="center" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px" height="35px" align="center" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35px" height="35px" align="center" />
 ⭐ More about me: <br>
 💻 I'm Front-End Developer <br> <br>
 
