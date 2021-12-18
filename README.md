@@ -9,7 +9,7 @@
 <br>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Gabriel Barros<br> <br>
 ⭐ More about me: <br>
-💻 I'm Front-End <br> <br>
+💻 I'm Front-End Developer <br> <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabrielbarrozs/)](https://www.instagram.com/gabrielbarrozs/)
 
