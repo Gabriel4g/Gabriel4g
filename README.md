@@ -8,7 +8,7 @@
 </p>
 <br>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="25px"> I'm Gabriel Barros<br> <br>
-<h1> My Development Stack</h1>
+<h1> My Development Stack</h1 height="35px" align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35px" height="35px" align="center" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px" height="35px" align="center" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35px" height="35px" align="center" />
