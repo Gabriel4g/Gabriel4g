@@ -7,12 +7,14 @@
   </a>
 </p>
 <br>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="25px"> I'm Gabriel Barros<br> <br>
-<h1> My Development Stack</h1 height="35px" align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35px" height="35px" align="center" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px" height="35px" align="center" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35px" height="35px" align="center" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35px" align="center" />
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"> <h2>I'm Gabriel Barros</h2> <br>
+<h1> My Development Stack</h1>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="HTML5"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/css3-9-1175237.png" alt="Css3"/></code>
+<code><img height="32" src="https://tadeuesteves.files.wordpress.com/2014/01/javascript-logo.png" alt="Javascript"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Python" />
+</code>
+<br> <br>
 ⭐ More about me: <br>
 💻 I'm Front-End Developer <br> <br>
 
