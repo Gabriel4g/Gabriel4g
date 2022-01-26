@@ -37,4 +37,4 @@
 - 👨‍💻 My <a href="https://gabrielgon.netlify.app/">Portifolio</a>
 - 🖐️ My <a href="https://instagram.com/gabrielbarrozs">Instagram</a>
 
-
+![](https://komarev.com/ghpvc/?username=Gabriel4g-07&color=blue&style=plastic&label=Visualiza%C3%A7%C3%B5es)
