@@ -1,6 +1,6 @@
   ![Snake animation](https://github.com/Gabriel4g/Gabriel4g/blob/output/github-contribution-grid-snake.svg)
   
- <h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"> Hello! I'm Gabriel Barros</h2>
+
  
   
   ### About me
