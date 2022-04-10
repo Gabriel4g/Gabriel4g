@@ -5,7 +5,7 @@
   
   ### About me
   
-- 💻 I'm <b> Front-End Developer</b> <br>
+- 💻 I'm <b> Sofware Developer</b> <br>
 - 🏠 Brazilian, <b> MA</b> 🌎 
 - 🖤 <i>In constant evolution, always better than yesterday.</i>
 
