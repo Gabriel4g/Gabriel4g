@@ -7,7 +7,7 @@
   
 - 💻 I'm <b> Sofware Developer</b> <br>
 - 🏠 Brazilian, <b> MA</b> 🌎 
-- 🖤 <i>In constant evolution, always better than yesterday.</i>
+- 🖤 <i>Em constante evolução, sempre melhor que ontem.</i>
 
 <br>
 
