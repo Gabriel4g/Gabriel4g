@@ -3,15 +3,14 @@
 
  
   
-  ### About me
+  ### About me 💤
   
 - 💻 I'm <b> Sofware Developer</b> <br>
 - 🏠 Brazilian, <b> MA</b> 🌎 
-- 🖤 <i>Em constante evolução, sempre melhor que ontem.</i>
 
 <br>
 
- ### My Skills
+ ### My Skills 🚀
 <div style="display: inline_block">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
