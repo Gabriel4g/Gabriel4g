@@ -5,7 +5,7 @@
   
   ### About me 💤
   
-- 💻 I'm <b> Sofware Developer</b> <br>
+- 💻 I'm <b>Developer</b> <br>
 - 🏠 Brazilian, <b> MA</b> 🌎 
 
 <br>
