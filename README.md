@@ -7,7 +7,6 @@
   
 - 💻 I'm <b>Developer</b> <br>
 - 🏠 Brazilian, <b> MA</b> 🌎 
-- 💻 Studying JS and Reactjs
 
 <br>
 
