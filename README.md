@@ -35,8 +35,7 @@ height="40"/>
 <hr>
 
 ### I'm here 🖐
-  
-- 👨‍💻 <a href="https://gabriel-bio.netlify.app/">Portifolio</a>
-- 🖐️ <a href="https://instagram.com/gabrielbarrozs">Instagram</a>
+ - ### <i>👨‍💻 <a href="https://gabriel-bio.netlify.app/">Portifolio</a>
+ - ### 🖐️ <a href="https://instagram.com/gabrielbarrozs">Instagram</a>
 
 ![](https://komarev.com/ghpvc/?username=Gabriel4g-07&color=blue&style=plastic&label=Visualiza%C3%A7%C3%B5es)
