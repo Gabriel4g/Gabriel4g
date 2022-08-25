@@ -1,7 +1,6 @@
-  ![Snake animation](https://github.com/Gabriel4g/Gabriel4g/blob/output/github-contribution-grid-snake.svg)
+  # <i> <p align="center">🤚 Hi, my name is Gabriel<p/></i>
   
-
- 
+  ![Snake animation](https://github.com/Gabriel4g/Gabriel4g/blob/output/github-contribution-grid-snake.svg)
   
   ### About me 💤
   
@@ -35,7 +34,7 @@ height="40"/>
 <hr>
 
 ### I'm here 🖐
- - ### <i>👨‍💻 <a href="https://gabriel-bio.netlify.app/">Portifolio</a>
+ - ### <i>👨‍💻 <a href="https://gabriel-bio.netlify.app/">Portfolio</a>
  - ### 🖐️ <a href="https://instagram.com/gabrielbarrozs">Instagram</a>
 
 ![](https://komarev.com/ghpvc/?username=Gabriel4g-07&color=blue&style=plastic&label=Visualiza%C3%A7%C3%B5es)
