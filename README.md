@@ -1,4 +1,4 @@
-  # <i> <p align="center">🤚 Hi, my name is Gabriel<p/></i>
+
   
   ![Snake animation](https://github.com/Gabriel4g/Gabriel4g/blob/output/github-contribution-grid-snake.svg)
   
